@@ -40,7 +40,3 @@ func hello_rain():
 
 func hello_bean():
 	print("hello bean")
-
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-#func _process(delta):
-#	pass
