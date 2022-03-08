@@ -28,13 +28,16 @@ func hello_sulaksa():
 	print("hello sulaksa")
 
 func hello_jyourth():
-	print("Hello jyourth!)
+	print("Hello jyourth!")
 
 func hello_foresto():
 	print("hello foresto")
 
 func hello_brian():
 	print("hello brian")
+
+func hello_dalton():
+	print("hello dalton")
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 #func _process(delta):
