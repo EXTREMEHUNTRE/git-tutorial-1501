@@ -31,6 +31,9 @@ func hello_foresto():
 func hello_brian():
 	print("hello brian")
 
+func hello_dalton():
+	print("hello dalton")
+
 func hello_rain():
 	print("hello rain")
 
